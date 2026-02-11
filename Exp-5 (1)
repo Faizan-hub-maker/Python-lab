@@ -1,0 +1,24 @@
+print("NAME:Faizan UIN: 251A029") 
+print("DATE: 3-2-26")
+
+1-[]
+
+NAME []
+
+AGE[]
+
+SECTION= []
+
+NAME_1 input("ENTER YOUR NAME:")
+
+NAME_2 - input("ENTER YOUR FREND'S NAME:")
+
+AGE_1 = int(input("ENTER YOUR AGE:"))
+
+AGE_2- int(input("ENTER YOUR FREND AGE:"))
+
+SECTION 1- input ("ENTER YOUR SECTION:") SECTION 2- input ("ENTER YOUR FREND'S SECTION:")
+
+1,append((NAME_1, AGE_1, SECTION_1)) 1,append((NAME 2, AGE_2, SECTION_2))
+
+print(1)
